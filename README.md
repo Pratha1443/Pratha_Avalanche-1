@@ -19,7 +19,7 @@ Refer the modules if stuck anywhere.
 
 ## Authors
 
-Pratam Pannase
+Pratham Pannase
 
 ## License
 
